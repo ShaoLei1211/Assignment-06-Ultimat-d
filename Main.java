@@ -19,7 +19,7 @@ public class Main
         System.out.println("worldTime = " + totalTime);
         System.out.printf("It is %d:%02d on day %d of the year %d.\n", hour, minute, day, year);
         System.out.println("Trammel is in day " + (trammel + 1) + " of its 9 day phase.");
-        System.out.println("Felucca is in day " + (felucca + 1) + " of its 14 day phase.\n");
+        System.out.println("Felucca is in day " + (felucca + 1) + " of its 14 day phase.");
 
         return 0;
     }
